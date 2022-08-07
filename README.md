@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharmathej-s-k-23972022b/)](https://www.linkedin.com/in/dharmathej-s-k-23972022b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dharmathej-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharmathej-s-k-23972022b/)](https://www.linkedin.com/in/dharmathej-s-k-23972022b/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
@@ -29,8 +29,8 @@ Languages and Tools:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on web developement projects
+- 🌱 I’m currently learning Html, Css, bootstrap, JavaScript, Python.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
